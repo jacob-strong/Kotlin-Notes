@@ -1,16 +1,6 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
-    var user_name: String = "ya boy"
-    user_name = "skinny penis";
-
-    println("aha")
-    println("ay")
-    println("its ya boy")
-    println("uhhhhhh")
-    println(user_name)
-    println()
-
     var noteList = mutableListOf<Note>()
 
     var answer: Int = 1
